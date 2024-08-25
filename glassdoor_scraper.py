@@ -12,11 +12,6 @@ def get_jobs(keyword, num_jobs, verbose, path, sleep_time):
     # Initializing the webdriver
     service = Service(executable_path=path)
     options = webdriver.ChromeOptions()
-    
-    # Uncomment the line below if you'd like to scrape without a new Chrome window every time.
-    # options.add_argument('headless')
-    
-    # Change the path to where chromedriver is in your home folder.
     driver = webdriver.Chrome(service=service, options=options)
     driver.set_window_size(1120, 1000)
 
@@ -80,7 +75,7 @@ def get_jobs(keyword, num_jobs, verbose, path, sleep_time):
                     continue  # Skip this job and move to the next
                 
                 try:
-                    salary_estimate = driver.find_element(By.XPATH, './/span[@class="SalaryEstimate_medianEstimate__fOYN1"]').text
+                    salary_estimate = driver.find_element(By.XPATH, './/div[@class="SalaryEstimate_medianEstimate__fOYN1"]').text
                 except NoSuchElementException:
                     salary_estimate = -1
 
