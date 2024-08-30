@@ -77,12 +77,12 @@ def get_jobs(keyword, num_jobs, verbose, path, sleep_time):
                 try:
                     salary_estimate = driver.find_element(By.XPATH, './/div[@class="SalaryEstimate_medianEstimate__fOYN1"]').text
                 except NoSuchElementException:
-                    salary_estimate = -1
+                    salary_estimate = None
 
                 try:
-                    rating = driver.find_element(By.XPATH, './/span[@class="RatingHeadline_sectionRatingScoreLeft__di1of"]').text
+                    rating = driver.find_element(By.XPATH, './/div[@id="rating-headline"]').text
                 except NoSuchElementException:
-                    rating = -1
+                    rating = None
 
                 # Printing for debugging
                 if verbose:
@@ -97,32 +97,32 @@ def get_jobs(keyword, num_jobs, verbose, path, sleep_time):
                 try:
                     size = driver.find_element(By.XPATH, './/span[text()="Size"]/following-sibling::div').text
                 except NoSuchElementException:
-                    size = -1
+                    size = None
 
                 try:
                     founded = driver.find_element(By.XPATH, './/span[text()="Founded"]/following-sibling::div').text
                 except NoSuchElementException:
-                    founded = -1
+                    founded = None
 
                 try:
                     type_of_ownership = driver.find_element(By.XPATH, './/span[text()="Type"]/following-sibling::div').text
                 except NoSuchElementException:
-                    type_of_ownership = -1
+                    type_of_ownership = None
 
                 try:
                     industry = driver.find_element(By.XPATH, './/span[text()="Industry"]/following-sibling::div').text
                 except NoSuchElementException:
-                    industry = -1
+                    industry = None
 
                 try:
                     sector = driver.find_element(By.XPATH, './/span[text()="Sector"]/following-sibling::div').text
                 except NoSuchElementException:
-                    sector = -1
+                    sector = None
 
                 try:
                     revenue = driver.find_element(By.XPATH, './/span[text()="Revenue"]/following-sibling::div').text
                 except NoSuchElementException:
-                    revenue = -1
+                    revenue = None
 
                 if verbose:
                     print("Size: {}".format(size))
