@@ -1,4 +1,4 @@
-from src.glassdoor_scraper import get_jobs
+from glassdoor_scraper import get_jobs
 import pandas as pd 
 
 path = "chromedriver.exe"

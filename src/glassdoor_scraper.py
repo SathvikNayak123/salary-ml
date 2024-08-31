@@ -75,7 +75,7 @@ def get_jobs(keyword, num_jobs, verbose, path, sleep_time):
                     continue  # Skip this job and move to the next
                 
                 try:
-                    salary_estimate = driver.find_element(By.XPATH, './/div[@class="SalaryEstimate_medianEstimate__fOYN1"]').text
+                    salary_estimate = driver.find_element(By.XPATH, './/div[@class="SalaryEstimate_salaryRange__brHFy"]').text
                 except NoSuchElementException:
                     salary_estimate = None
 
