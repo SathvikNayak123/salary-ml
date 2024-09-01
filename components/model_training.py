@@ -35,7 +35,7 @@ class ModelTrainer:
         """Trains the RandomForestRegressor model."""
         self.model.fit(self.X_train, self.y_train)
     
-    def save_model(self, directory='artifacts', model_file='model_file.p', scaler_file='scaler_file.p'):
+    def save_model(self, directory='artifacts', model_file='model_file.p', scaler_file='scalar_file.p'):
         """Saves the trained model to a file."""
         # Save model
         model_path = os.path.join(directory, model_file)

@@ -1,4 +1,4 @@
-from src.components.predict import Predict
+from components.predict import Predict
 
 class PredictPipeline:
     def __init__(self):

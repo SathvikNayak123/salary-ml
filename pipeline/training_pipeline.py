@@ -1,5 +1,5 @@
-from src.components.data_transform import JobDataProcessor
-from src.components.model_training import ModelTrainer
+from components.data_transform import JobDataProcessor
+from components.model_training import ModelTrainer
 
 class TrainingPipeline:
     def __init__(self, clean_path, transform_path):

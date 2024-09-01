@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template
-from src.pipeline.prediction_pipeline import PredictPipeline
+from pipeline.prediction_pipeline import PredictPipeline
 import pandas as pd
 
 app = Flask(__name__)
@@ -35,12 +35,8 @@ def predict():
     tool_yn = int(request.form['tool_yn'])
     cloud_yn = int(request.form['cloud_yn'])
     
-    input_data = pd.DataFrame({
+    input_data = pd.Series({
         'Rating': [rating],
-        'Size_Upper': [size_upper],
-        'Age': [age],
-        'Revenue_Upper': [revenue_upper],
-        'desc_len': [desc_len],
         'ml_yn': [ml_yn],
         'dl_yn': [dl_yn],
         'ai_yn': [ai_yn],
@@ -48,6 +44,10 @@ def predict():
         'sql_yn': [sql_yn],
         'tool_yn': [tool_yn],
         'cloud_yn': [cloud_yn],
+        'Size_Upper': [size_upper],
+        'Age': [age],
+        'Revenue_Upper': [revenue_upper],
+        'desc_len': [desc_len],
         'Company Name': [company_name],
         'Location': [location],
         'Type of ownership': [ownership],
