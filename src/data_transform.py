@@ -15,16 +15,15 @@ cat_features = ['Company Name', 'Location', 'Type of ownership', 'Industry', 'Se
 for col in num_features:
     df[col] = pd.to_numeric(df[col], errors='coerce')
 
-for col in cat_features:
-    df[col] = df[col].astype('category')
-
-# Fill missing values in numeric columns with the mean
+# Fill missing values in numeric columns
 for col in num_features:
     df[col].fillna(df[col].mean(), inplace=True)
 
-# Fill missing values in categorical columns with the mode
 for col in cat_features:
-    df[col].fillna(df[col].mode()[0], inplace=True)
+    df[col].fillna('na', inplace=True)
+
+for col in cat_features:
+    df[col] = df[col].astype('category')
 
 df=df.drop(['Job Title', 'Salary Estimate', 'Job Description'],axis=1)
 
@@ -37,9 +36,8 @@ encoded_df = pd.DataFrame(encoded_features, columns=onehot_encoder.get_feature_n
 # Concatenate with the original DataFrame
 df = pd.concat([df.drop(columns=cat_features), encoded_df], axis=1)
 
-# Initialize the StandardScaler
-scaler = StandardScaler()
-# Fit and transform the numeric features
-df[['Rating','Size_Upper', 'Age', 'desc_len']] = scaler.fit_transform(df[['Rating','Size_Upper', 'Age', 'desc_len']])
+for col in df.columns:
+    if df[col].dtype == bool:
+        df[col] = df[col].astype(int)
 
-df.to_csv('artifacts/data_transformed.csv')
+df.to_csv('artifacts/data_transformed.csv', index= False)
