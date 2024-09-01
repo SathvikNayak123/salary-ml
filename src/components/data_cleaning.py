@@ -8,15 +8,15 @@ def title_simplifier(title):
     elif 'data engineer' in title.lower():
         return 'data engineer'
     elif 'analyst' in title.lower():
-        return 'analyst'
+        return 'data analyst'
     elif 'machine learning' in title.lower():
-        return 'mle'
+        return 'ML engineer'
     elif 'manager' in title.lower():
         return 'manager'
     elif 'director' in title.lower():
         return 'director'
     else:
-        return 'na'
+        return 'Unknown'
     
 df['job_simp'] = df['Job Title'].apply(title_simplifier)
     
@@ -24,9 +24,9 @@ def seniority(title):
     if 'sr' in title.lower() or 'senior' in title.lower() or 'sr' in title.lower() or 'lead' in title.lower() or 'principal' in title.lower():
             return 'senior'
     elif 'jr' in title.lower() or 'jr.' in title.lower():
-        return 'jr'
+        return 'junior'
     else:
-        return 'na'
+        return 'Unknown'
     
 df['seniority'] = df['Job Title'].apply(seniority)
 
