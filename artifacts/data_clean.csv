@@ -1,0 +1,798 @@
+Rating,Company Name,Location,Type of ownership,Industry,Sector,job_simp,seniority,avg_salary,ml_yn,dl_yn,ai_yn,python_yn,sql_yn,tool_yn,cloud_yn,desc_len,Size_Upper,Age,Revenue_Upper
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
+4.1,Louis Dreyfus Company,Bengaluru,Subsidiary or Business Segment,Crop Production,Agriculture,data scientist,NA,1400000.0,0,0,0,0,0,0,0,606,10000   ,173.0,10 000 
+3.9,Blackcoffer (OPC) Pvt. Ltd,Remote,Unknown,unknown,unknown,data scientist,NA,120000.0,0,0,0,0,0,0,0,993,50,,unknown
+4.0,Michelin,Pune,Company - Public,Machinery Manufacturing,Manufacturing,data scientist,NA,900000.0,0,0,0,0,0,0,0,476,10000   ,135.0,10 000 
+,Drimlite,Bengaluru,,,,data scientist,NA,2600000.0,0,0,0,0,0,0,0,620,,,
+4.5,AIBridge ML,Hyderābād,Company - Private,Computer Hardware Development,Information Technology,data scientist,junior,300000.0,1,0,0,1,0,0,0,417,50,5.0,unknown
+3.5,WAHY LAB SOLUTIONS,Cochin,Company - Private,unknown,unknown,data scientist,NA,800000.0,0,0,0,1,1,0,0,526,Unknown,,unknown
+,MacroCosmos Creations,Remote,,,,NA,NA,125000.0,0,0,0,0,0,0,0,881,,,
+3.4,Saaki Argus & Averil Consulting,Chennai,Private Practice / Firm,HR Consulting,Human resources and staffing,data scientist,NA,1100000.0,0,0,0,0,0,0,0,583,200,26.0,unknown
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,data scientist,senior,1500000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+3.8,Expedia Partner Solutions,Gurgaon,Company - Public,Internet & Web Services,Information Technology,ML engineer,senior,1800000.0,1,0,0,0,0,0,0,1438,10000   ,28.0,10 000
+3.9,Barclays,Chennai,Company - Public,Banking & Lending,Finance,data scientist,NA,1900000.0,1,0,0,0,0,0,0,522,10000   ,334.0,10 000 
+,Excellent Opportunity,Remote,,,,data scientist,NA,6100000.0,0,0,0,1,0,0,0,552,,,
+4.2,Boston Consulting Group,Gurgaon,Company - Private,Business consulting,Management and consulting,NA,NA,1300000.0,0,0,0,0,0,0,0,937,10000   ,61.0,10 000
+,objectways,Coimbatore,,,,manager,NA,400000.0,1,0,0,0,0,0,0,660,,,
+,IPCS Global solutions pvt ltd,India,,,,NA,NA,252000.0,1,1,0,1,0,0,0,725,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,400000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Accusaga,India,,,,data scientist,NA,2400000.0,0,0,0,0,0,0,0,213,,,
+3.9,"Arch Systems, LLC",Remote,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,2080000.0,0,0,0,0,0,0,0,548,200,18.0,25
+4.1,S&P Global,Gurgaon,Company - Public,Research and development,Management and consulting,data scientist,NA,1900000.0,0,0,0,0,0,0,0,5488,10000   ,164.0,10 000 
+4.7,Exponentia.ai,Bengaluru,Company - Private,Information Technology Support Services,Information Technology,data scientist,NA,1300000.0,0,0,0,0,0,0,0,659,500,,unknown
+,Nithminds Private limited,Remote,,,,data scientist,NA,1900000.0,0,0,0,1,0,0,0,449,,,
+4.6,Innovecture,Pune,Company - Private,Information Technology Support Services,Information Technology,data analyst,NA,800000.0,0,0,0,0,0,0,0,926,200,17.0,25
+,Indicraft Vintage Private Limited,Remote,,,,data analyst,NA,1800000.0,0,0,0,0,0,0,0,873,,,
+4.0,Applied Materials,Bengaluru,Company - Public,Electronics Manufacturing,Manufacturing,data scientist,NA,500000.0,0,0,0,0,0,0,0,665,10000   ,57.0,10 000 
