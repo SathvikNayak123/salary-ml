@@ -173,10 +173,12 @@
                 <select id="job_simp" name="job_simp" class="form-select" required>
                     <option value="" disabled selected>Select Job Simplification</option>
                     <option value="data scientist">data scientist</option>
-                    <option value="mle">mle</option>
-                    <option value="na">na</option>
-                    <option value="analyst">analyst</option>
+                    <option value="data engineer">data engineer</option>
+                    <option value="ML engineer">ML engineer</option>
+                    <option value="data analyst">data analyst</option>
                     <option value="manager">manager</option>
+                    <option value="director">director</option>
+                    <option value="NA">na</option>
                 </select>
             </div>
 
@@ -186,8 +188,31 @@
                 <select id="seniority" name="seniority" class="form-select" required>
                     <option value="" disabled selected>Select Seniority</option>
                     <option value="senior">senior</option>
-                    <option value="na">na</option>
-                    <option value="jr">jr</option>
+                    <option value="NA">na</option>
+                    <option value="junior">jr</option>
+                </select>
+            </div>
+
+            <!-- Size_Upper Dropdown -->
+            <div class="form-group">
+                <label for="size_upper">Size Upper:</label>
+                <select id="size_upper" name="size_upper" class="form-control" required>
+                    <option value="">Select Size Upper</option>
+                    <option value="50">50</option>
+                    <option value="200">200</option>
+                    <option value="500">500</option>
+                    <option value="Unknown">Unknown</option>
+                </select>
+            </div>
+
+            <!-- Revenue_Upper Dropdown -->
+            <div class="form-group">
+                <label for="revenue_upper">Revenue Upper:</label>
+                <select id="revenue_upper" name="revenue_upper" class="form-control" required>
+                    <option value="">Select Revenue Upper</option>
+                    <option value="10 000">10 000</option>
+                    <option value="25">25</option>
+                    <option value="Unknown">Unknown</option>
                 </select>
             </div>
 
@@ -197,22 +222,10 @@
                 <input type="number" id="rating" name="rating" class="form-control" step="0.01" required>
             </div>
 
-            <!-- Size_Upper Input -->
-            <div class="form-group">
-                <label for="size_upper">Size Upper:</label>
-                <input type="number" id="size_upper" name="size_upper" class="form-control" required>
-            </div>
-
             <!-- Age Input -->
             <div class="form-group">
                 <label for="age">Age:</label>
                 <input type="number" id="age" name="age" class="form-control" required>
-            </div>
-
-            <!-- Revenue_Upper Input -->
-            <div class="form-group">
-                <label for="revenue_upper">Revenue Upper:</label>
-                <input type="number" id="revenue_upper" name="revenue_upper" class="form-control" required>
             </div>
 
             <!-- Description Length Input -->

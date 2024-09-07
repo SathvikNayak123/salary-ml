@@ -2,11 +2,13 @@ import pandas as pd
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.impute import SimpleImputer
 import os
+import pickle
 
 class JobDataProcessor:
     def __init__(self):
         self.df = pd.read_csv("artifacts/data_clean.csv")
-        self.num_features = ['Rating', 'avg_salary', 'ml_yn', 'dl_yn', 'ai_yn', 'python_yn', 'sql_yn', 'tool_yn', 'cloud_yn', 'Age', 'desc_len']
+        self.onehot_encoder = OneHotEncoder(sparse_output=False)
+        self.num_features = ['Rating', 'Age', 'desc_len']
         self.cat_features = ['Company Name', 'Location', 'Type of ownership', 'Industry', 'Sector', 'job_simp', 'seniority', 'Revenue_Upper', 'Size_Upper' ]
 
     def fill_missing(self):
@@ -21,9 +23,8 @@ class JobDataProcessor:
     
     def encode_categorical_features(self):
         """Encodes categorical features using OneHotEncoder."""
-        onehot_encoder = OneHotEncoder(sparse_output=False, drop='first')  # Use sparse_output=False to avoid FutureWarning
-        encoded_features = onehot_encoder.fit_transform(self.df[self.cat_features])
-        encoded_df = pd.DataFrame(encoded_features, columns=onehot_encoder.get_feature_names_out(self.cat_features))
+        encoded_features = self.onehot_encoder.fit_transform(self.df[self.cat_features])
+        encoded_df = pd.DataFrame(encoded_features, columns=self.onehot_encoder.get_feature_names_out(self.cat_features))
         self.df = pd.concat([self.df.drop(columns=self.cat_features), encoded_df], axis=1)
     
     def convert_bool_to_int(self):
@@ -45,6 +46,11 @@ class JobDataProcessor:
         if not os.path.exists(directory):
             os.makedirs(directory)
         self.df.to_csv("artifacts/data_transform.csv", index=False)
+
+        # Save encoder
+        model_path = os.path.join('artifacts', "onehot_encoder.p")
+        with open(model_path, 'wb') as file:
+            pickle.dump(self.onehot_encoder, file)
 
 if __name__=="__main__":
     job_data_processor = JobDataProcessor()

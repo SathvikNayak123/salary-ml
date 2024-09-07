@@ -1,19 +1,21 @@
 import pickle
-import numpy as np
-from sklearn.preprocessing import OneHotEncoder
-from components.data_transform import JobDataProcessor
 import pandas as pd
 
 class Predict:
-    def __init__(self, model_path, scalar_path):
+    def __init__(self, encoder_path, model_path, scalar_path):
         self.model_file = model_path
-        self.model = None
+        self.encoder_file = encoder_path
         self.scaler_file = scalar_path
-        self.onehot_encoder = OneHotEncoder(sparse=False, drop='first')
+        self.expected_features = pd.read_csv("artifacts/data_transform.csv").drop('avg_salary',axis=1).columns
         self.cat_features = ['Company Name', 'Location', 'Type of ownership', 'Industry', 'Sector', 'job_simp', 'seniority', 'Revenue_Upper', 'Size_Upper' ]
+        self.num_features = ['Rating','Age','desc_len']
     
-    def load_model(self):
+    def load_all(self):
         """Loads the trained model and scaler from files."""
+        # Load encoder
+        with open(self.encoder_file, 'rb') as file:
+            self.encoder = pickle.load(file)
+
         # Load model
         with open(self.model_file, 'rb') as file:
             self.model = pickle.load(file)
@@ -21,8 +23,20 @@ class Predict:
         # Load scaler
         with open(self.scaler_file, 'rb') as file:
             self.scaler = pickle.load(file)
+
+    def preprocess(self, X):
+        """Preprocesses the input data: encodes categorical features and scales numerical features."""
+
+        encoded_features = self.encoder.transform(X[self.cat_features])
+        encoded_df = pd.DataFrame(encoded_features, columns=self.encoder.get_feature_names_out(self.cat_features))
+        X = pd.concat([X.drop(columns=self.cat_features), encoded_df], axis=1)
+
+        #X_new = X.reindex(columns=self.expected_features, fill_value=0)
+
+        X[self.num_features] = self.scaler.transform(X[self.num_features])
+
+        return X
     
     def predict(self, X):
-        """Predicts the target using the loaded model and scaler."""
-        X_std = self.scaler.transform(X)
-        return self.model.predict(X_std)
+        """Predicts the target using the loaded model."""
+        return self.model.predict(X)
