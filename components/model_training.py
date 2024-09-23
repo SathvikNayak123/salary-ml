@@ -1,17 +1,17 @@
 import os
 import pickle
 import pandas as pd
-from sklearn.ensemble import RandomForestRegressor
+from sklearn.linear_model import ElasticNet
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, r2_score
 
 class ModelTrainer:
     def __init__(self):
-        self.target_column = 'avg_salary'
+        self.target_column = 'log_avg_salary'
         self.test_size = 0.2
         self.random_state = 42
-        self.model = RandomForestRegressor()
+        self.model = ElasticNet(alpha=0.1, l1_ratio=0.1)
         self.scaler = StandardScaler()
         self.df = None
         self.X_train = None
@@ -19,7 +19,7 @@ class ModelTrainer:
         self.y_train = None
         self.y_test = None
         #numeric features to scale
-        self.numeric_features = ['Rating', 'Age', 'desc_len']
+        self.numeric_features = ['Rating', 'Age']
     
     def load_data(self):
         """Loads the dataset from the file path."""

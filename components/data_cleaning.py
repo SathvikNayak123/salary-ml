@@ -19,7 +19,7 @@ class JobDataClean:
         elif 'director' in title.lower():
             return 'director'
         else:
-            return 'NA'
+            return 'Unknown'
 
     def seniority(self, title):
         if 'sr' in title.lower() or 'senior' in title.lower() or 'lead' in title.lower() or 'principal' in title.lower():
@@ -27,7 +27,7 @@ class JobDataClean:
         elif 'jr' in title.lower() or 'jr.' in title.lower():
             return 'junior'
         else:
-            return 'NA'
+            return 'Unknown'
 
     def parse_job_title(self):
         self.df['job_simp'] = self.df['Job Title'].apply(self.title_simplifier)
@@ -43,52 +43,37 @@ class JobDataClean:
             .str.replace(r'/mo', '*12', regex=True) \
             .str.replace(r'/hr', '*2080', regex=True)
         self.df['avg_salary'] = self.df['Salary Estimate'].apply(
-            lambda x: eval(x.split('–')[0].strip()) + eval(x.split('–')[1].strip()) if '–' in str(x) else eval(x))
-
-    def parse_description(self):
-        skills = {
-            'Machine Learning': 'ml_yn',
-            'Deep Learning': 'dl_yn',
-            ('Generative AI', 'Gen AI'): 'ai_yn',
-            'python': 'python_yn',
-            'database': 'sql_yn',
-            ('tensorflow', 'pytorch'): 'tool_yn',
-            'cloud': 'cloud_yn'
-        }
-        for skill, column in skills.items():
-            if isinstance(skill, tuple):
-                self.df[column] = self.df['Job Description'].apply(lambda x: any(kw in x.lower() for kw in skill)).astype(int)
-            else:
-                self.df[column] = self.df['Job Description'].str.contains(skill, case=False, na=False).astype(int)
-        self.df['desc_len'] = self.df['Job Description'].apply(lambda x: len(x))
+            lambda x: (eval(x.split('–')[0].strip()) + eval(x.split('–')[1].strip()))/2 if '–' in str(x) else eval(x))
 
     def clean_size(self):
-        self.df['Size'] = self.df['Size'].str.replace('Employees', ' ').str.replace('+', ' ').str.replace('to', '-')
-        self.df['Size_Upper'] = self.df['Size'].apply(lambda x: x.split('-')[1].strip() if '-' in str(x) else x)
+        self.df['Size_Upper'] = self.df['Size'].str.replace('10000+ Employees', 'large') \
+                            .str.replace('201 to 500 Employees', 'high') \
+                            .str.replace('51 to 200 Employees', 'med') \
+                            .str.replace('1 to 50 Employees', 'low') \
+                            .str.strip()
 
     def clean_founded(self):
         self.df['Founded'] = pd.to_numeric(self.df['Founded'], errors='coerce')
         self.df['Age'] = 2024 - self.df['Founded'].dropna().astype(int)
 
-    def clean_industry_sector(self):
+    def clean_industry_sector_ownership(self):
         self.df['Industry'] = self.df['Industry'].apply(lambda x: 'unknown' if x == '--' else x)
         self.df['Sector'] = self.df['Sector'].apply(lambda x: 'unknown' if x == '--' else x)
+        self.df['Ownership'] = self.df['Type of ownership'].str.replace('Company - Private', 'private') \
+                                .str.replace('Company - Public', 'publlic') \
+                                .str.replace('Subsidiary or Business Segment', 'subsidiary') \
+                                .str.replace('Private Practice / Firm', 'firm') \
+                                .str.strip()
 
     def clean_revenue(self):
-        self.df['Revenue'] = self.df['Revenue'].str.strip() \
-            .str.replace(r'\$', '', regex=True) \
-            .str.replace(r'to', '-', regex=False) \
-            .str.replace(r'\+', '', regex=True) \
-            .str.replace(r'billion', '000', regex=False) \
-            .str.replace(r'million', '', regex=False) \
-            .str.replace(r'Unknown / Non-Applicable', 'unknown', regex=False) \
-            .str.replace(r'USD', '', regex=False) \
-            .str.replace(r'\(', '', regex=True) \
-            .str.replace(r'\)', '', regex=True)
-        self.df['Revenue_Upper'] = self.df['Revenue'].apply(lambda x: x.split('-')[1].strip() if '-' in str(x) else x)
+        self.df['Revenue_Upper'] = self.df['Revenue'].str.replace(r'\$5 to \$10 billion \(USD\)', 'med', regex=True) \
+                                    .str.replace(r'\$10\+ billion \(USD\)', 'high', regex=True) \
+                                    .str.replace(r'\$5 to \$25 million \(USD\)', 'low', regex=True) \
+                                    .str.replace(r'Unknown / Non-Applicable', 'Unknown', regex=True) \
+                                    .str.strip()
 
     def drop_unused_columns(self):
-        self.df = self.df.drop(['Job Title', 'Salary Estimate', 'Job Description', 'Size', 'Founded', 'Revenue'], axis=1)
+        self.df = self.df.drop(['Job Title', 'Salary Estimate', 'Job Description', 'Size', 'Founded', 'Revenue','Type of ownership'], axis=1)
 
     def save_cleaned_data(self):
         directory = os.path.dirname("artifacts/data_clean.csv")
@@ -99,10 +84,10 @@ class JobDataClean:
     def clean_data(self):
         self.parse_job_title()
         self.clean_salary()
-        self.parse_description()
+        self.df[['Type of ownership', 'Industry', 'Sector','Revenue','Size']] = self.df[['Type of ownership', 'Industry', 'Sector','Revenue', 'Size']].fillna('Unknown')
         self.clean_size()
         self.clean_founded()
-        self.clean_industry_sector()
+        self.clean_industry_sector_ownership()
         self.clean_revenue()
         self.drop_unused_columns()
         self.save_cleaned_data()

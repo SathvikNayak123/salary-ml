@@ -6,9 +6,9 @@ class Predict:
         self.model_file = model_path
         self.encoder_file = encoder_path
         self.scaler_file = scalar_path
-        self.expected_features = pd.read_csv("artifacts/data_transform.csv").drop('avg_salary',axis=1).columns
-        self.cat_features = ['Company Name', 'Location', 'Type of ownership', 'Industry', 'Sector', 'job_simp', 'seniority', 'Revenue_Upper', 'Size_Upper' ]
-        self.num_features = ['Rating','Age','desc_len']
+        self.expected_features = pd.read_csv("artifacts/data_transform.csv").drop('log_avg_salary',axis=1).columns
+        self.cat_features = ['Company Name', 'Location', 'Ownership', 'Industry', 'Sector', 'job_simp', 'seniority', 'Revenue_Upper', 'Size_Upper' ]
+        self.num_features = ['Rating','Age']
     
     def load_all(self):
         """Loads the trained model and scaler from files."""

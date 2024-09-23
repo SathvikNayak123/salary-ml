@@ -3,320 +3,175 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job Prediction Form</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <title>Input Form</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        body {
-            background-color: #f0f2f5;
-            padding: 20px;
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
         }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #ffffff;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 20px;
-            text-align: center;
-            color: #333;
-        }
-
-        .form-group label {
-            font-weight: 600;
-            color: #555;
-        }
-
-        .form-control, .form-select {
-            border-radius: 5px;
-            border-color: #ced4da;
-            box-shadow: none;
-            transition: border-color 0.3s;
-        }
-
-        .form-control:focus, .form-select:focus {
-            border-color: #80bdff;
-            box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
-        }
-
-        .btn-submit {
-            background-color: #007bff;
-            border-color: #007bff;
-            border-radius: 5px;
-            font-size: 1.1rem;
-            padding: 10px;
-            color: #fff;
-        }
-
-        .btn-submit:hover {
-            background-color: #0056b3;
-            border-color: #004085;
-        }
-
-        .result {
-            margin-top: 20px;
-            text-align: center;
-            font-size: 1.5rem;
-            color: #007bff;
-        }
-
-        .form-control, .form-select {
-            margin-bottom: 15px;
+        .form-group {
+            margin-bottom: 1rem; /* Adjust margin if necessary */
         }
     </style>
 </head>
-<body>
-    <div class="container">
-        <h1>Job Prediction Form</h1>
-        <form action="/predict" method="post">
-            <!-- Company Name Dropdown -->
-            <div class="form-group">
-                <label for="company_name">Company Name:</label>
-                <select id="company_name" name="company_name" class="form-select" required>
-                    <option value="" disabled selected>Select Company Name</option>
-                    <option value="Boston Consulting Group">Boston Consulting Group</option>
-                    <option value="Expedia Partner Solutions">Expedia Partner Solutions</option>
-                    <option value="Barclays">Barclays</option>
-                    <option value="Excellent Opportunity">Excellent Opportunity</option>
-                    <option value="IPCS Global solutions pvt ltd">IPCS Global solutions pvt ltd</option>
-                    <option value="Innovecture">Innovecture</option>
-                    <option value="S&P Global">S&P Global</option>
-                    <option value="Indicraft Vintage Private Limited">Indicraft Vintage Private Limited</option>
-                    <option value="Applied Materials">Applied Materials</option>
-                    <option value="Blackcoffer (OPC) Pvt. Ltd">Blackcoffer (OPC) Pvt. Ltd</option>
-                    <option value="AIBridge ML">AIBridge ML</option>
-                    <option value="WAHY LAB SOLUTIONS">WAHY LAB SOLUTIONS</option>
-                    <option value="objectways">objectways</option>
-                    <option value="Accusaga">Accusaga</option>
-                    <option value="Arch Systems, LLC">Arch Systems, LLC</option>
-                    <option value="Exponentia.ai">Exponentia.ai</option>
-                    <option value="Nithminds Private limited">Nithminds Private limited</option>
-                    <option value="Louis Dreyfus Company">Louis Dreyfus Company</option>
-                    <option value="Michelin">Michelin</option>
-                    <option value="Drimlite">Drimlite</option>
-                    <option value="MacroCosmos Creations">MacroCosmos Creations</option>
-                    <option value="Saaki Argus & Averil Consulting">Saaki Argus & Averil Consulting</option>
-                </select>
-            </div>
+<body class="container mt-5">
+    <h1 class="mb-4">Data Science Job Salary Predictor</h1>
+    <form action="/predict" method="POST" class="form-grid">
 
-            <!-- Location Dropdown -->
-            <div class="form-group">
-                <label for="location">Location:</label>
-                <select id="location" name="location" class="form-select" required>
-                    <option value="" disabled selected>Select Location</option>
-                    <option value="Gurgaon">Gurgaon</option>
-                    <option value="Chennai">Chennai</option>
-                    <option value="Remote">Remote</option>
-                    <option value="India">India</option>
-                    <option value="Pune">Pune</option>
-                    <option value="Bengaluru">Bengaluru</option>
-                    <option value="Hyderābād">Hyderābād</option>
-                    <option value="Cochin">Cochin</option>
-                    <option value="Coimbatore">Coimbatore</option>
-                </select>
-            </div>
+        <div class="form-group">
+            <label for="company_name">Company Name:</label>
+            <select id="company_name" name="company_name" class="form-control">
+                <option value="Innovecture">Innovecture</option>
+                <option value="Boston Consulting Group">Boston Consulting Group</option>
+                <option value="Barclays">Barclays</option>
+                <option value="Excellent Opportunity">Excellent Opportunity</option>
+                <option value="IPCS Global solutions pvt ltd">IPCS Global solutions pvt ltd</option>
+                <option value="S&P Global">S&P Global</option>
+                <option value="Indicraft Vintage Private Limited">Indicraft Vintage Private Limited</option>
+                <option value="Applied Materials">Applied Materials</option>
+                <option value="Expedia Partner Solutions">Expedia Partner Solutions</option>
+                <option value="Accusaga">Accusaga</option>
+                <option value="Nithminds Private limited">Nithminds Private limited</option>
+                <option value="Exponentia.ai">Exponentia.ai</option>
+                <option value="Arch Systems, LLC">Arch Systems, LLC</option>
+                <option value="WAHY LAB SOLUTIONS">WAHY LAB SOLUTIONS</option>
+                <option value="objectways">objectways</option>
+                <option value="AIBridge ML">AIBridge ML</option>
+                <option value="Blackcoffer (OPC) Pvt. Ltd">Blackcoffer (OPC) Pvt. Ltd</option>
+                <option value="Louis Dreyfus Company">Louis Dreyfus Company</option>
+                <option value="Michelin">Michelin</option>
+                <option value="Drimlite">Drimlite</option>
+                <option value="MacroCosmos Creations">MacroCosmos Creations</option>
+                <option value="Saaki Argus & Averil Consulting">Saaki Argus & Averil Consulting</option>
+            </select>
+        </div>
 
-            <!-- Type of Ownership Dropdown -->
-            <div class="form-group">
-                <label for="ownership">Type of Ownership:</label>
-                <select id="ownership" name="ownership" class="form-select" required>
-                    <option value="" disabled selected>Select Type of Ownership</option>
-                    <option value="Company - Private">Company - Private</option>
-                    <option value="Company - Public">Company - Public</option>
-                    <option value="Unknown">Unknown</option>
-                    <option value="Subsidiary or Business Segment">Subsidiary or Business Segment</option>
-                    <option value="Private Practice / Firm">Private Practice / Firm</option>
-                </select>
-            </div>
+        <div class="form-group">
+            <label for="location">Location:</label>
+            <select id="location" name="location" class="form-control">
+                <option value="Remote">Remote</option>
+                <option value="India">India</option>
+                <option value="Bengaluru">Bengaluru</option>
+                <option value="Gurgaon">Gurgaon</option>
+                <option value="Pune">Pune</option>
+                <option value="Chennai">Chennai</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Haryāna">Haryāna</option>
+                <option value="Hyderābād">Hyderābād</option>
+                <option value="Cochin">Cochin</option>
+                <option value="Coimbatore">Coimbatore</option>
+            </select>
+        </div>
 
-            <!-- Industry Dropdown -->
-            <div class="form-group">
-                <label for="industry">Industry:</label>
-                <select id="industry" name="industry" class="form-select" required>
-                    <option value="" disabled selected>Select Industry</option>
-                    <option value="Business consulting">Business consulting</option>
-                    <option value="Internet & Web Services">Internet & Web Services</option>
-                    <option value="Banking & Lending">Banking & Lending</option>
-                    <option value="Information Technology Support Services">Information Technology Support Services</option>
-                    <option value="Research and development">Research and development</option>
-                    <option value="Electronics Manufacturing">Electronics Manufacturing</option>
-                    <option value="Computer Hardware Development">Computer Hardware Development</option>
-                    <option value="Crop Production">Crop Production</option>
-                    <option value="Machinery Manufacturing">Machinery Manufacturing</option>
-                    <option value="HR Consulting">HR Consulting</option>
-                </select>
-            </div>
+        <div class="form-group">
+            <label for="ownership">Type of Ownership:</label>
+            <select id="ownership" name="ownership" class="form-control">
+                <option value="Unknown">Unknown</option>
+                <option value="private">Private</option>
+                <option value="publlic">Public</option>
+                <option value="subsidiary">Subsidiary</option>
+                <option value="firm">Firm</option>
+            </select>
+        </div>        
 
-            <!-- Sector Dropdown -->
-            <div class="form-group">
-                <label for="sector">Sector:</label>
-                <select id="sector" name="sector" class="form-select" required>
-                    <option value="" disabled selected>Select Sector</option>
-                    <option value="Management and consulting">Management and consulting</option>
-                    <option value="Information Technology">Information Technology</option>
-                    <option value="Finance">Finance</option>
-                    <option value="Manufacturing">Manufacturing</option>
-                    <option value="Agriculture">Agriculture</option>
-                    <option value="Human resources and staffing">Human resources and staffing</option>
-                </select>
-            </div>
+        <div class="form-group">
+            <label for="industry">Industry:</label>
+            <select id="industry" name="industry" class="form-control">
+                <option value="Unknown">Unknown</option>
+                <option value="Information Technology Support Services">Information Technology Support Services</option>
+                <option value="Business Consulting">Business Consulting</option>
+                <option value="unknown">Unknown</option>
+                <option value="Internet & Web Services">Internet & Web Services</option>
+                <option value="Banking & Lending">Banking & Lending</option>
+                <option value="Research and Development">Research and Development</option>
+                <option value="Electronics Manufacturing">Electronics Manufacturing</option>
+                <option value="Computer Hardware Development">Computer Hardware Development</option>
+                <option value="Crop Production">Crop Production</option>
+                <option value="Machinery Manufacturing">Machinery Manufacturing</option>
+                <option value="HR Consulting">HR Consulting</option>
+            </select>
+        </div>
 
-            <!-- Job Simplification Dropdown -->
-            <div class="form-group">
-                <label for="job_simp">Job Simplification:</label>
-                <select id="job_simp" name="job_simp" class="form-select" required>
-                    <option value="" disabled selected>Select Job Simplification</option>
-                    <option value="data scientist">data scientist</option>
-                    <option value="data engineer">data engineer</option>
-                    <option value="ML engineer">ML engineer</option>
-                    <option value="data analyst">data analyst</option>
-                    <option value="manager">manager</option>
-                    <option value="director">director</option>
-                    <option value="NA">na</option>
-                </select>
-            </div>
+        <div class="form-group">
+            <label for="sector">Sector:</label>
+            <select id="sector" name="sector" class="form-control">
+                <option value="Unknown">Unknown</option>
+                <option value="Information Technology">Information Technology</option>
+                <option value="Management and Consulting">Management and Consulting</option>
+                <option value="Manufacturing">Manufacturing</option>
+                <option value="unknown">Unknown</option>
+                <option value="Finance">Finance</option>
+                <option value="Agriculture">Agriculture</option>
+                <option value="Human Resources and Staffing">Human Resources and Staffing</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="job_simp">Job Title:</label>
+            <select id="job_simp" name="job_simp" class="form-control">
+                <option value="data scientist">Data Scientist</option>
+                <option value="Unknown">Unknown</option>
+                <option value="data analyst">Data Analyst</option>
+                <option value="ML engineer">ML Engineer</option>
+                <option value="manager">Manager</option>
+            </select>
+        </div>        
 
-            <!-- Seniority Dropdown -->
-            <div class="form-group">
-                <label for="seniority">Seniority:</label>
-                <select id="seniority" name="seniority" class="form-select" required>
-                    <option value="" disabled selected>Select Seniority</option>
-                    <option value="senior">senior</option>
-                    <option value="NA">na</option>
-                    <option value="junior">jr</option>
-                </select>
-            </div>
+        <div class="form-group">
+            <label for="seniority">Seniority:</label>
+            <select id="seniority" name="seniority" class="form-control">
+                <option value="Unknown">Unknown</option>
+                <option value="senior">Senior</option>
+                <option value="junior">Junior</option>
+            </select>
+        </div>        
 
-            <!-- Size_Upper Dropdown -->
-            <div class="form-group">
-                <label for="size_upper">Size Upper:</label>
-                <select id="size_upper" name="size_upper" class="form-control" required>
-                    <option value="">Select Size Upper</option>
-                    <option value="50">50</option>
-                    <option value="200">200</option>
-                    <option value="500">500</option>
-                    <option value="Unknown">Unknown</option>
-                </select>
-            </div>
+        <div class="form-group">
+            <label for="size_upper">Number of Employees:</label>
+            <select id="size_upper" name="size_upper" class="form-control">
+                <option value="Unknown">Unknown</option>
+                <option value="large">10,000+</option>
+                <option value="high">200-500+</option>
+                <option value="med">50-200</option>
+                <option value="low">1-50</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="revenue_upper">Revenue:</label>
+            <select id="revenue_upper" name="revenue_upper" class="form-control">
+                <option value="Unknown">Unknown</option>
+                <option value="high">$10+ billion</option>
+                <option value="med">$5-$10 billion</option>
+                <option value="low">$5-$25 million</option>
+            </select>
+        </div>        
 
-            <!-- Revenue_Upper Dropdown -->
-            <div class="form-group">
-                <label for="revenue_upper">Revenue Upper:</label>
-                <select id="revenue_upper" name="revenue_upper" class="form-control" required>
-                    <option value="">Select Revenue Upper</option>
-                    <option value="10 000">10 000</option>
-                    <option value="25">25</option>
-                    <option value="Unknown">Unknown</option>
-                </select>
-            </div>
+        <div class="form-group">
+            <label for="rating">Rating:</label>
+            <input type="number" id="rating" name="rating" step="0.1" class="form-control" required>
+        </div>
 
-            <!-- Rating Input -->
-            <div class="form-group">
-                <label for="rating">Rating:</label>
-                <input type="number" id="rating" name="rating" class="form-control" step="0.01" required>
-            </div>
+        <div class="form-group">
+            <label for="age">Company Age:</label>
+            <input type="number" id="age" name="age" class="form-control" required>
+        </div>
 
-            <!-- Age Input -->
-            <div class="form-group">
-                <label for="age">Age:</label>
-                <input type="number" id="age" name="age" class="form-control" required>
-            </div>
-
-            <!-- Description Length Input -->
-            <div class="form-group">
-                <label for="desc_len">Description Length:</label>
-                <input type="number" id="desc_len" name="desc_len" class="form-control" required>
-            </div>
-
-            <!-- Machine Learning Dropdown -->
-            <div class="form-group">
-                <label for="ml_yn">Machine Learning:</label>
-                <select id="ml_yn" name="ml_yn" class="form-select" required>
-                    <option value="" disabled selected>Do you know Machine Learning?</option>
-                    <option value=1>Yes</option>
-                    <option value=0>No</option>
-                </select>
-            </div>
-
-            <!-- Deep Learning Dropdown -->
-            <div class="form-group">
-                <label for="dl_yn">Deep Learning:</label>
-                <select id="dl_yn" name="dl_yn" class="form-select" required>
-                    <option value="" disabled selected>Do you know Deep Learning?</option>
-                    <option value=1>Yes</option>
-                    <option value=0>No</option>
-                </select>
-            </div>
-
-            <!-- Generative AI Dropdown -->
-            <div class="form-group">
-                <label for="ai_yn">Generative AI:</label>
-                <select id="ai_yn" name="ai_yn" class="form-select" required>
-                    <option value="" disabled selected>Do you know Generative AI?</option>
-                    <option value=1>Yes</option>
-                    <option value=0>No</option>
-                </select>
-            </div>
-
-            <!-- Python Dropdown -->
-            <div class="form-group">
-                <label for="python_yn">Python:</label>
-                <select id="python_yn" name="python_yn" class="form-select" required>
-                    <option value="" disabled selected>Do you know Python?</option>
-                    <option value=1>Yes</option>
-                    <option value=0>No</option>
-                </select>
-            </div>
-
-            <!-- Database Dropdown -->
-            <div class="form-group">
-                <label for="sql_yn">Database:</label>
-                <select id="sql_yn" name="sql_yn" class="form-select" required>
-                    <option value="" disabled selected>Do you know Database?</option>
-                    <option value=1>Yes</option>
-                    <option value=0>No</option>
-                </select>
-            </div>
-
-            <!-- TensorFlow or PyTorch Dropdown -->
-            <div class="form-group">
-                <label for="tool_yn">TensorFlow or PyTorch:</label>
-                <select id="tool_yn" name="tool_yn" class="form-select" required>
-                    <option value="" disabled selected>Do you know TensorFlow or PyTorch?</option>
-                    <option value=1>Yes</option>
-                    <option value=0>No</option>
-                </select>
-            </div>
-
-            <!-- Cloud Dropdown -->
-            <div class="form-group">
-                <label for="cloud_yn">Cloud:</label>
-                <select id="cloud_yn" name="cloud_yn" class="form-select" required>
-                    <option value="" disabled selected>Do you know Cloud?</option>
-                    <option value=1>Yes</option>
-                    <option value=0>No</option>
-                </select>
-            </div>
-
-            <button type="submit" class="btn btn-submit">Submit</button>
-        </form>
-
-        {% if prediction_text %}
-            <div class="result">
-                <h2>{{ prediction_text }}</h2>
-            </div>
-        {% endif %}
-    </div>
-
-    <!-- Bootstrap JS, Popper.js, and jQuery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.min.js"></script>
+        <div class="form-group" style="grid-column: span 2;">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+    
+    {% if prediction_text %}
+        <div class="result mt-4">
+            <h2>{{ prediction_text }}</h2>
+        </div>
+    {% endif %}
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
